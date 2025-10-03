@@ -1,4 +1,5 @@
-Book_Recommendation_Engine-KNN
+Book_Recommendation_Engine-KNN_fcc
+
 This project demonstrates how to build a book recommendation algorithm using K-Nearest Neighbors.
 The Book-Crossings dataset is used, featuring 1.1 million user ratings (on a scale of 1-10) for 270,000 books from 90,000 users. The dataset is preloaded in the notebook, so no extra download is necessary.
 
